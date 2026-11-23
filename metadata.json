@@ -1,0 +1,6 @@
+{
+  "name": "ANIMA 3D STUDIO",
+  "description": "Editor profesional de animaciones educativas en 3D con personajes estilizados, anatomía interactiva por capas, cámaras cinematográficas y línea de tiempo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
